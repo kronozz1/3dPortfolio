@@ -1,0 +1,47 @@
+{
+  "name": "3d-portfolio",
+  "version": "1.0.0",
+  "description": "React, React-Spring, R3F, Blender",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "npx gh-pages -d build"
+  },
+  "homepages": "https://trevsm.github.io/3D-Portfolio/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevsm/3D-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevsm/3D-Portfolio/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "@react-spring/core": "^9.5.2",
+    "@react-spring/three": "^9.5.2",
+    "@react-three/drei": "^9.17.3",
+    "@react-three/fiber": "^8.2.1",
+    "@react-three/postprocessing": "^2.5.4",
+    "gh-pages": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "three": "^0.142.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
