@@ -1,4 +1,4 @@
 # portfolio
 React, React-Spring, R3F, Blender
 
-https://trevsm.github.io/3D-Portfolio/
+https://kronozz1.github.io/3dPortfolio/
